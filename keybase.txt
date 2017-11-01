@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/coreyglynn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://coreyglynn.com
+  * I am coreyglynn (https://keybase.io/coreyglynn) on keybase.
+  * I have a public key with fingerprint 2664 F788 6DA4 D534 FB13  7530 7D9F 4584 ED4E 7972
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2664f7886da4d534fb1375307d9f4584ed4e7972",
+            "host": "keybase.io",
+            "key_id": "7d9f4584ed4e7972",
+            "uid": "0e160191ba82af2289f77dbfce79a800",
+            "username": "coreyglynn"
+        },
+        "service": {
+            "hostname": "coreyglynn.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397574403,
+    "expire_in": 157680000,
+    "prev": "ccd574b9bd975646a54665c73d2ee53b7be189bfb5200b63396546c4b752a011",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.8
+Comment: https://keybase.io/crypto
+
+yMHsAnicbZFdTBRXHMV3WUAlokY0WQmSMOEj6mad77uz1URLTDQtVSMNGNFl7syd
+3VF2ZndmlroQglKQNqYpPDVAIfShNfWB0PCixKxoqxKRBxV0E0UixJC4EuoHBmIU
+7hB90qebe/6/c869+f+X7XJkOX9ud515WdHb5RwZmo85jpR946onoC7HCX89cQqt
+HIqqBZERMVTNIvwEzfOsAnw+XhZZmWNYBVIM4BgSyILCcj4WySwCAqAJDxHSTduB
+Y6BoIq+qYw1fAqqM1S/wsZUBiSiepAQKij5aVGjaJygAyFCRMCb6SNIGTWRoYhhh
+WtINFA/WxDWNaPAQWK9VJazXr5R/xnglPYz9EUO3dEmvwbOQZUX8ttWKR2z2BwQD
+H1MCUNVk/HdsqEWGqeoa4acwKVmqHUsxAuAAy5KMh0CnI6qBAqpNcIDHryRJuwbV
+2vWSjDkoQBkbeJYXOZbnOQkwMo0Qx0AAEeUToAI5miQhzzACjwmJhYCjRZKicL+J
+oppO+HGTJQZxpKkGNdGKGYhouD5Ule5wZjkyM9Ls7Tmy1mz4tNPbiVXvc9b3HeqZ
+zmj+p+ncxguT17YM7iqb+zrZvPbw378mx69WFG8+KuZdiZrO9NYXH2o6fsqfLn6e
+Mxhd3D6RGqPulxS5n+YOV/7iTpvpmxxvGxvd9rDdrdwqqCptDuUCUFA5Y/XF3i4S
+1Ubj901nj+1fPB6j7pHJqYEFo9dt9e9cVzh6d/T8b5cz/1hdYhbR4z0TbGfrcLhu
+4VGpd4ks2T3TecA11WFEy+886U4lL1b/+XrHj17PpRMtobxNA3Vvsm9Ef3/VffJd
+RpQNOruMWX+q8OCD71KzI3Br/56Km3Nw37d5f2kgUf3VfF3Q/azl38fle5dMjzOR
+//+83sY1JsKt2jIPbxTk
+=/LCY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/coreyglynn
+
+==================================================================
